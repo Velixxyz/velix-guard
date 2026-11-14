@@ -1,0 +1,5 @@
+# Test files only. server.js, scan.js, and api/ MUST be uploaded:
+# Vercel builds server.js as the entrypoint function (see the sibling
+# gatekeeper agent: excluding server.js fails every build with
+# "No entrypoint found in /vercel/path0").
+test.js

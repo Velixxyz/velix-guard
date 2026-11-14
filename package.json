@@ -1,0 +1,1 @@
+{"author":"","dependencies":{},"description":"VELIX Guard — a read-only wallet/transaction guard agent that screens BNB Smart Chain contracts before interaction. No keys, no wallet, no signing.","engines":{"node":"22.x"},"keywords":[],"license":"ISC","main":"server.js","name":"velix-guard","scripts":{"start":"node server.js","test":"node test.js"},"version":"1.0.0"}
