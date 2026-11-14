@@ -145,6 +145,6 @@ of v1 rather than shipped half-proven.
 
 ## Links
 
-- Repository: (pending — see submission checklist)
-- Public endpoint: (pending — see submission checklist)
-- Demo: open the endpoint root in a browser.
+- Repository: https://github.com/Velixxyz/velix-guard
+- Public endpoint: https://velix-guard.vercel.app
+- Demo: https://velix-guard.vercel.app/ — open the endpoint root in a browser.

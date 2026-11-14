@@ -11,10 +11,10 @@ dashboard submission. Do NOT submit until every MUST item is green.
 - [x] README with API docs, deploy steps, honest limitations
 - [x] No secrets anywhere in the package (no keys, no wallet, no tokens)
 - [x] Local harness `test.js` — see "Test evidence" below
-- [ ] MUST: public GitHub repo created (see "Needs lokie" below)
-- [ ] MUST: code pushed to the repo
-- [ ] MUST: public HTTPS endpoint deployed + probe-verified (see "Needs lokie")
-- [ ] MUST: repo URL + endpoint URL filled into `WRITEUP.md` Links section
+- [x] MUST: public GitHub repo created (lokie, 14 Nov 2026: public Velixxyz/velix-guard)
+- [x] MUST: code pushed to the repo (snapshot-push 14 Nov 21:20 WIB, commit f03d955)
+- [x] MUST: public HTTPS endpoint deployed + probe-verified (Vercel production domain https://velix-guard.vercel.app; probed 15 Nov 01:19 WIB: /health 200, / 200, POST /scan 200 on real contracts)
+- [x] MUST: repo URL + endpoint URL filled into `WRITEUP.md` Links section
 - [ ] MUST: dashboard submission form completed (mechanism unverified — see below)
 
 ## Test evidence (local harness, 14 Nov 2026)
